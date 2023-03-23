@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋, I'm Elias Velazquez</h1>
-<h3 align="center">I'm a full stack web developer based on Argentina.</h3>
+<h3 align="center">I'm a Python backend developer based on Argentina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esv343&label=Profile%20views&color=0e75b6&style=flat" alt="esv343" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [my YouTube's channel website](https://rj8mp.netlify.app/)
 
-- 🌱 I’m currently learning **Bootstrap 5, Django, FastApi and some Java**
+- 🌱 I’m currently learning **Bootstrap 5, Django, FastApi and some SQL**
 
 - 👨‍💻 All of my projects are available at [https://eliasvelazquez.netlify.app/](https://eliasvelazquez.netlify.app/)
 
